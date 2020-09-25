@@ -1,2 +1,3 @@
+include ':net_work'
 include ':app'
 rootProject.name = "wx_base"
